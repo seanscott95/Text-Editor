@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "Edit your text online or offline",
+  "description": "Save and edit your text online or offline",
   "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -13,7 +13,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Sean Scott",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
