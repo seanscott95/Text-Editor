@@ -9,10 +9,6 @@
 
 - [Webpack](https://webpack.js.org/)
 
-- [HTMLWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)
-
-- [Webpack Hot Module Replacement](https://webpack.js.org/concepts/hot-module-replacement/)
-
 - [webpack-dev-server](https://webpack.js.org/configuration/dev-server/)
 
 - [WebpackPwaManifest](https://www.npmjs.com/package/webpack-pwa-manifest)
