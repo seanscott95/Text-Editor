@@ -76,4 +76,4 @@ This application was created with [Node.js](https://nodejs.org/en/). The modules
 
 ## Links
 - GitHub: [GitHub-Link](https://github.com/seanscott95/Text-Editor)
-- Heroku: [Heroku-Link](https://boiling-wave-43662.herokuapp.com/)
+- Deployed: [Render-Link](https://text-editor-6b26.onrender.com)
