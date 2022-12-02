@@ -3,7 +3,7 @@
 ## Description
 <p> This application was created to enjoy the convenience having a place to take notes on and offline. The application uses PWA so it has the ability to be downloaded onto your computer. PWA's use the Service Worker and Cache APIs to cache assets and API responses, which ensures that the application will continue to work without an internet connection</p>
 
-<p>This application was created with [Node.js](https://nodejs.org/en/). The modules used include:</p>
+This application was created with [Node.js](https://nodejs.org/en/). The modules used include:
 
 - [Express](https://expressjs.com/)
 
